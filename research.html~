@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+
+Template 2082 Pure Mix
+
+http://www.tooplate.com/view/2082-pure-mix
+
+-->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<!-- Site title
+   ================================================== -->
+	<title>Research</title>
+
+	<!-- Bootstrap CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<!-- Animate CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/animate.min.css">
+
+	<!-- Font Icons CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/ionicons.min.css">
+
+	<!-- Main CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Google web font 
+   ================================================== -->	
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300' rel='stylesheet' type='text/css'>
+	
+</head>
+<body>
+
+
+<!-- Preloader section
+================================================== -->
+<div class="preloader">
+
+	<div class="sk-spinner sk-spinner-pulse"></div>
+
+</div>
+
+
+<!-- Navigation section
+================================================== -->
+<div class="nav-container">
+   <nav class="nav-inner transparent">
+
+      <div class="navbar">
+         <div class="container">
+            <div class="row">
+
+              <div class="brand">
+                <a href="index.html">Katherine Raoux</a>
+              </div>
+
+              <div class="navicon">
+                <div class="menu-container">
+
+                  <div class="circle dark inline">
+                    <i class="icon ion-navicon"></i>
+                  </div>
+
+                  <div class="list-menu">
+                    <i class="icon ion-close-round close-iframe"></i>
+                    <div class="intro-inner">
+                     	<ul id="nav-menu">
+                         <li><a href="index.html">Home</a></li>
+                       	 <li><a href="research.html">Research</a></li>
+                       	 <li><a href="teaching.html">Teaching</a></li>
+                       	 <li><a href="aboutme.html">About Me</a></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+         </div>
+      </div>
+
+   </nav>
+</div>
+
+
+<!-- Header section
+================================================== -->
+<section id="header" class="header-two">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+           		 <div class="header-thumb">
+              		 <h1 class="wow fadeIn" data-wow-delay=".3s">Research</h1>
+              		 <p class="wow fadeInUp" data-wow-delay=".6s">I am interested in knots, three-manifolds, four-manifolds, Heegaard Floer theory and more!</p>
+           		 </div>
+			</div>
+
+		</div>
+	</div>		
+</section>
+
+
+<!-- Single Project section
+================================================== -->
+<section id="single-project">
+   <div class="container">
+      <div class="row">
+
+         
+
+		<div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="1s">
+      			<h1> Articles & Preprints</h1>
+      			<br>
+      			<div class="wow fadeInUp col-md-10 col-sm-10" data-wow-delay="1s">
+      			<p>
+      				<b><a href="https://arxiv.org/abs/2009.05462"> Knot Floer homology and relative adjunction inequalities, </a> </b>
+      					(with M. Hedden) Submitted.
+      				<br>
+      				<br>
+      				
+      				<b><a href="https://doi.org/10.1073/pnas.2025436118"> 4-dimensional aspects of tight contact 3-manifolds, </a> </b>
+      					(with M. Hedden) Proceedings of the National Academy of Science June 1, 2021 118 (22) e2025436118; DOI: 10.1073/pnas.2025436118. 
+      				<br>
+      				<br>
+      				
+      				<b><a href="https://arxiv.org/abs/2004.07445"> Braids, fibered knots and concordance questions, </a> </b>
+      			 		(with D. Hubbard, K. Kawamuro, F. C. Kose, G. Martin, O. Plamenevskaya, L. Truong and H. Turner) in Research Directions in Symplectic and Contact Geometry and Topology, Volume 27 of Assoc. Women Math. Ser. Springer, 2021. DOI: 10.1007/978-3-030-80979-9. 
+      				<br>
+      				<br>
+      				
+      				<b><a href="https://msp.org/agt/2020/20-4/p01.xhtml"> &tau;-invariants for knots in rational homology spheres, </a> </b>
+      				 Algebraic & Geometric Topology <b> 20 </b> (2020) 1601-1640; DOI: 10.2140/agt.2020.20.1601.
+      					
+      			</p>
+      			</div>
+      	</div>
+      			<br>
+      			<br>
+      	
+      	<div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="1s">		
+      		<h1> Videos  </h1> 
+      			<div class="wow fadeInUp col-md-10 col-sm-10">
+      			<p> 
+      				<b><a href="https://www.youtube.com/watch?v=2BWCRZco6Wo"> 4-dimensional aspects of tight contact 3-manifolds </a></b> 
+      				<br> Nearly Carbon Neutral Geometric Topology Conference (2021). 
+      				<br> 
+      				<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/2BWCRZco6Wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      			<br>
+      			<br>
+      				<b><a href="https://www.youtube.com/watch?v=ObA6IxdQF0k&feature=emb_title"> Knot Floer homology and relative adjunction inequalities </a> </b> 
+      				<br> Nearly Carbon Neutral Geometric Topology Conference(2020).
+      				<br>
+      				<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/ObA6IxdQF0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      			<br>
+				<br>      			
+      				<b><a href="https://www.birs.ca/events/2017/5-day-workshops/17w5040/videos/watch/201708091133-Raoux.html"> Low-dimensional Topology and Gauge Theory Conference </a></b> Casa Matem&aacute;tica Oaxaca  (2017).
+      			<br>
+      			<br>
+      				<b><a href="http://scgp.stonybrook.edu/video_portal/video.php?id=3043"> Mathematics of Gauge Fields Seminar </a></b> Simons Center (2017).
+      			</div>
+      	</div>
+      					      					
+		</div>
+		</div>
+
+      </div>
+   </div>
+</section>
+
+
+<!-- Footer section
+================================================== -->
+<footer>
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-12 col-sm-12">
+				<p class="wow fadeInUp"  data-wow-delay="0.3s"> Designed by Tooplate</p>
+
+			</div>
+			
+		</div>
+	</div>
+</footer>
+
+
+<!-- Javascript 
+================================================== -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
